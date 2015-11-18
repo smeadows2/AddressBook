@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>BigBadAddressBook</label>
+	</settings>
+	<users>
+		<user>
+			<path>BigBadAddressBook2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>BigBadAddressBook.jcp</path>
+		</project>
+	</projects>
+</workspace>

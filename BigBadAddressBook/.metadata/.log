@@ -1,0 +1,36 @@
+!SESSION 2014-03-30 23:39:54.470 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  256M
+Command-line arguments:  -os win32 -ws win32 -arch x86 256M
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-03-30 23:41:17.213
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-03-30 23:41:17.213
+!MESSAGE Conflict for 'com.jformdesigner.eclipse.ConvertFormsAction':
+HandlerActivation(commandId=com.jformdesigner.eclipse.ConvertFormsAction,
+	handler=ActionDelegateHandlerProxy(null,com.jformdesigner.eclipse.ConvertFormsAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1c5e80c),sourcePriority=16384)
+HandlerActivation(commandId=com.jformdesigner.eclipse.ConvertFormsAction,
+	handler=ActionDelegateHandlerProxy(null,com.jformdesigner.eclipse.ConvertFormsAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1c5e80c),sourcePriority=16384)
+!SESSION 2014-03-30 23:41:56.670 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  256M
+Command-line arguments:  -os win32 -ws win32 -arch x86 256M
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-03-30 23:42:06.710
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-03-30 23:42:06.710
+!MESSAGE Conflict for 'com.jformdesigner.eclipse.ConvertFormsAction':
+HandlerActivation(commandId=com.jformdesigner.eclipse.ConvertFormsAction,
+	handler=ActionDelegateHandlerProxy(null,com.jformdesigner.eclipse.ConvertFormsAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@66b7ea),sourcePriority=16384)
+HandlerActivation(commandId=com.jformdesigner.eclipse.ConvertFormsAction,
+	handler=ActionDelegateHandlerProxy(null,com.jformdesigner.eclipse.ConvertFormsAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@66b7ea),sourcePriority=16384)
